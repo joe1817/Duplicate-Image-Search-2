@@ -8,7 +8,7 @@ This is an [Electron](https://www.electronjs.org/docs/latest/tutorial/tutorial-p
 - crtl-click to show an image's location in the file browser
 - does not ask for confirmation to search a folder
 
-## Useage
+## Usage
 Click `run.bat` or run `npm start`.
 
 ## Dependencies
