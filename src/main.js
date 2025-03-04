@@ -261,8 +261,8 @@ class ImageFile {
 	}
 
 	static boxBlur(data, width, height, windowDim, shift, channelsIn=3) {
-		const blurredData = new Array(data.length);
 		const destDim = parseInt((width-windowDim)/shift) + 1;
+		const blurredData = new Array(destDim * 3);
 		const n = windowDim ** 2;
 		let sumR = 0, sumG = 0, sumB = 0;
 		let i = 0, j = 0;
