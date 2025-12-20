@@ -1,3 +1,5 @@
+.editorconfig
+
 node_modules
 out
 dist
