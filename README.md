@@ -1,3 +1,5 @@
+Note: This is no longer maintained. Anyone interested should use the web-based version: [Duplicate-Image-Search](https://github.com/joe1817/Duplicate-Image-Search).
+
 # Duplicate Image Search 2
 Search your PC for images that look similar.
 
